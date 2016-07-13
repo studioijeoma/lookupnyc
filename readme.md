@@ -4,7 +4,7 @@ A participatory public art app about not using apps. It prompts New Yorkers to l
 
 Made with Processing and support from Google Creative Labs' [Android Experiments](https://www.androidexperiments.com)
 
-The app can be downloaded from the Play Store at https://play.google.com/store/apps/details?id=com.ekeneijeoma.lookup
+<a href='https://play.google.com/store/apps/details?id=com.ekeneijeoma.lookup&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img class="img-responsive" style="height:70px" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' /></a>
 
 Read more at http://look-up.nyc  
 
