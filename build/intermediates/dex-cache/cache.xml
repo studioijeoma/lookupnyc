@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_6767896e30ddbde1df0dd11b6915e582f2b2646a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_ed0d838ecf7394d5238f9b70456ac6c38d90ee08/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_e0f934728b3f025f20cfb079be35fa5110f4d9b4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/exploded-aar/pl.charmas.android/android-reactive-location/0.9/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7b47ac96246358929b6f0202f761b80fd9a3847b">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/10/pl.charmas.android-android-reactive-location-0.9_72587f6af5787809be329e816173c09a05d2db5f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="56affa41a99f236f98016f32c376957f7f8519cc">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5b7f7c4e6ac4ef63f35957edb728885eb895eb8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/Documents/git/lookupnyc/app/libs/android-core.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="51fe2f15ede8ce167542e317fc5ab109bfa9df2d">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-core_27ffab439c6436878dbfd20875f252152a887b5d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_8cd6d165bff493e1b4dd770629ea5e3d6e932164/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_7e0ceee3a284fa7929cf75bd5886186733c01c8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/10/sqliteassethelper-2.0.1_721bebcafebba60daf3075b82e1b84823fb1f11b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_0d25956843c44f1f2623cc878ab8f71d430ab527/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/Documents/git/lookupnyc/app/libs/Ijeoma.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c01b7099aa2af8ed7f622eacffb18d80b53a43cb">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/2/Ijeoma_dfdef6f6a557b8e239339478994b24cf4ba797ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db662a49e40dbe940e493a0a8912c197de6ec7df">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_74222193b196b24165689759f5bbf57bfbf9c649/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.5_ebab6eb048dff6ed965258739b4fb1158cf8add3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/ekeneijeoma/Documents/git/lookupnyc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_236683867cf69b90186b82193df4c8c5906fe4da/classes.dex" />
+    </item>
+
+</items>

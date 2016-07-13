@@ -1,0 +1,45 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias ''
+            keyPassword ''
+            storeFile file('')
+            storePassword ''
+        }
+    }
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+    defaultConfig {
+        applicationId "com.ekeneijeoma.lookup"
+        minSdkVersion 16
+        targetSdkVersion 23
+        versionCode 40
+        versionName '1.40'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            debuggable false
+            versionNameSuffix '1.40'
+            signingConfig signingConfigs.config
+            zipAlignEnabled true
+        }
+        debug {
+            versionNameSuffix '1.12'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'pl.charmas.android:android-reactive-location:0.9@aar'
+    compile 'com.google.android.gms:play-services-location:8.4.0'
+    compile 'io.reactivex:rxjava:1.1.5'
+    compile 'com.readystatesoftware.sqliteasset:sqliteassethelper:+'
+}
